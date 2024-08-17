@@ -1,2 +1,1 @@
-version= 1.0.1
-link: https://github.com/kkv0n/onlinectr-1015Launcher/blob/main/latest.zip
+1.1.0
